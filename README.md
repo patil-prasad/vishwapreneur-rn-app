@@ -10,7 +10,7 @@ npm install -g expo-cli
 ```
 ## Installing
 ```
-In the root directory do
+Follow these steps to get this project up in running 
 1. npm install
 2. npm start
 ```
